@@ -6,7 +6,11 @@
     "link_trailer": "https://www.youtube.com/watch?v=YoHD_XwstMw",
     "link_imagen": "https://image.tmdb.org/t/p/w500/oYuLEyjco5Roroyavq5zVGBjvxR.jpg",
     "anio": 2010,
-    "genero": ["Ciencia Ficción", "Thriller", "Acción"],
+    "genero": [
+      "Ciencia Ficción",
+      "Thriller",
+      "Acción"
+    ],
     "rating": 8.8
   },
   {
@@ -16,7 +20,9 @@
     "link_trailer": "https://www.youtube.com/watch?v=6hB3S9bIaco",
     "link_imagen": "https://image.tmdb.org/t/p/w500/q6725aR8Zs4IwGxeFLFhVkAMmA2.jpg",
     "anio": 1994,
-    "genero": ["Drama"],
+    "genero": [
+      "Drama"
+    ],
     "rating": 9.3
   },
   {
@@ -26,7 +32,22 @@
     "link_trailer": "https://www.youtube.com/watch?v=eoKc0sXJzVM",
     "link_imagen": "https://image.tmdb.org/t/p/w500/eINotsQFezy30j0ub2bNcceHc9.jpg",
     "anio": 2019,
-    "genero": ["Drama", "Thriller"],
+    "genero": [
+      "Drama",
+      "Thriller"
+    ],
     "rating": 8.6
+  },
+  {
+    "id": 6565,
+    "titulo": "Dyye",
+    "sinopsis": "Fuf7",
+    "link_trailer": "Ifi",
+    "link_imagen": "Fuf7",
+    "anio": 8683,
+    "genero": [
+      "Xjxuf"
+    ],
+    "rating": 5868686
   }
 ]
