@@ -2,21 +2,21 @@
   {
     "id": 1,
     "titulo": "Inception",
-    "sinopsis": "Un ladrón de sueños que posee la rara habilidad de infiltrarse en los sueños de las personas debe hacer una última misión: implantar una idea en la mente de un CEO.",
+    "sinopsis": "Un ladrÃ³n de sueÃ±os que posee la rara habilidad de infiltrarse en los sueÃ±os de las personas debe hacer una Ãºltima misiÃ³n: implantar una idea en la mente de un CEO.",
     "link_trailer": "https://www.youtube.com/watch?v=YoHD_XwstMw",
     "link_imagen": "https://image.tmdb.org/t/p/w500/oYuLEyjco5Roroyavq5zVGBjvxR.jpg",
     "anio": 2010,
     "genero": [
-      "Ciencia Ficción",
+      "Ciencia FicciÃ³n",
       "Thriller",
-      "Acción"
+      "AcciÃ³n"
     ],
     "rating": 8.8
   },
   {
     "id": 2,
     "titulo": "The Shawshank Redemption",
-    "sinopsis": "Un abogado condenado por el asesinato de su esposa y su amante forma una amistad sin igual con un presidiario mientras trabajan juntos durante una década.",
+    "sinopsis": "Un abogado condenado por el asesinato de su esposa y su amante forma una amistad sin igual con un presidiario mientras trabajan juntos durante una dÃ©cada.",
     "link_trailer": "https://www.youtube.com/watch?v=6hB3S9bIaco",
     "link_imagen": "https://image.tmdb.org/t/p/w500/q6725aR8Zs4IwGxeFLFhVkAMmA2.jpg",
     "anio": 1994,
@@ -28,7 +28,7 @@
   {
     "id": 3,
     "titulo": "Parasite",
-    "sinopsis": "La familia pobre de Ki-taek se infiltra en la casa de una familia adinerada, fingiendo ser trabajadores no relacionados, desencadenando una serie de eventos cómicos y oscuros.",
+    "sinopsis": "La familia pobre de Ki-taek se infiltra en la casa de una familia adinerada, fingiendo ser trabajadores no relacionados, desencadenando una serie de eventos cÃ³micos y oscuros.",
     "link_trailer": "https://www.youtube.com/watch?v=eoKc0sXJzVM",
     "link_imagen": "https://image.tmdb.org/t/p/w500/eINotsQFezy30j0ub2bNcceHc9.jpg",
     "anio": 2019,
@@ -49,5 +49,17 @@
       "Xjxuf"
     ],
     "rating": 5868686
+  },
+  {
+    "id": 1778654092296,
+    "titulo": "Dragon balllll",
+    "anio": 2020,
+    "genero": [
+      "Bbv"
+    ],
+    "sinopsis": "Dbnfrkrk",
+    "link_imagen": "",
+    "link_trailer": "",
+    "rating": 0
   }
 ]
