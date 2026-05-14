@@ -17,5 +17,33 @@
     "link_imagen": "https://image.tmdb.org/t/p/original/kjQXYc2Abhy3TBgAZGzJRhN1JaV.jpg",
     "rating": 7.929,
     "link_pelicula": "fkffk"
+  },
+  {
+    "id": 1778732048050,
+    "tmdb_id": 232125,
+    "tipo": "tv",
+    "titulo": "Yo soy Groot",
+    "anio": 2022,
+    "genero": [
+      "Animación",
+      "Comedia",
+      "Familia",
+      "Sci-Fi & Fantasy",
+      "Kids"
+    ],
+    "sinopsis": "Una serie de cortometrajes con Groot junto a varios personajes inusuales. Es infantil y molesta a todos los que le rodean: el árbol parlante Groot. Groot es tan tonto y poco razonable que tiene que abandonar la nave espacial del equipo de héroes y acaba aterrizando en un planeta extraño. Allí se encuentra con todo tipo de criaturas: Alienígenas y robots.",
+    "link_poster": "https://image.tmdb.org/t/p/original/285ULt4SlLQiYabsFGzuAv9r8ww.jpg",
+    "link_backdrop": "https://image.tmdb.org/t/p/original/bAnHzJ6AMhOhnV3C0kTxkpCqpgM.jpg",
+    "link_imagen": "https://image.tmdb.org/t/p/original/285ULt4SlLQiYabsFGzuAv9r8ww.jpg",
+    "rating": 7.029,
+    "temporadas": {
+      "1": [
+        {
+          "episode_number": 1,
+          "name": "Los primeros pasos de Groot",
+          "link_still": "https://image.tmdb.org/t/p/original/iecIwrRoq1uZfhJ9XRrZD29Zr4R.jpg"
+        }
+      ]
+    }
   }
 ]
