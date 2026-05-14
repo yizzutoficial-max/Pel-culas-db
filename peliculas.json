@@ -1,1 +1,27 @@
-[]
+[
+  {
+    "id": 1778730370970,
+    "tmdb_id": 94997,
+    "tipo": "tv",
+    "titulo": "La casa del dragón",
+    "anio": 2022,
+    "genero": [
+      "Sci-Fi & Fantasy",
+      "Drama",
+      "Action & Adventure"
+    ],
+    "sinopsis": "Basada en el libro 'Fuego y Sangre' de George R.R. Martin. La serie se centra en la casa Targaryen, trescientos años antes de los eventos vistos en 'Juego de Tronos'.",
+    "link_imagen": "https://image.tmdb.org/t/p/original/8MaxftF69sEAAD5673vTjIl8yT3.jpg",
+    "rating": 8.291,
+    "temporadas": {
+      "2": [
+        {
+          "episode_number": 1,
+          "name": "Hijo por hijo",
+          "link_still": "https://image.tmdb.org/t/p/original/s0OUOQKhFdshcwWEMkNKogOOWd4.jpg",
+          "link_video": "fkfk"
+        }
+      ]
+    }
+  }
+]
