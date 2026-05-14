@@ -1,27 +1,19 @@
 [
   {
-    "id": 1778730370970,
-    "tmdb_id": 94997,
-    "tipo": "tv",
-    "titulo": "La casa del dragón",
-    "anio": 2022,
+    "id": 1778730389787,
+    "tmdb_id": 1087192,
+    "tipo": "movie",
+    "titulo": "Cómo entrenar a tu dragón",
+    "anio": 2025,
     "genero": [
-      "Sci-Fi & Fantasy",
-      "Drama",
-      "Action & Adventure"
+      "Fantasía",
+      "Familia",
+      "Acción",
+      "Aventura"
     ],
-    "sinopsis": "Basada en el libro 'Fuego y Sangre' de George R.R. Martin. La serie se centra en la casa Targaryen, trescientos años antes de los eventos vistos en 'Juego de Tronos'.",
-    "link_imagen": "https://image.tmdb.org/t/p/original/8MaxftF69sEAAD5673vTjIl8yT3.jpg",
-    "rating": 8.291,
-    "temporadas": {
-      "2": [
-        {
-          "episode_number": 1,
-          "name": "Hijo por hijo",
-          "link_still": "https://image.tmdb.org/t/p/original/s0OUOQKhFdshcwWEMkNKogOOWd4.jpg",
-          "link_video": "fkfk"
-        }
-      ]
-    }
+    "sinopsis": "En la escarpada isla de Mema, donde vikingos y dragones han sido enemigos acérrimos durante generaciones, Hipo se desmarca desafiando siglos de tradición cuando entabla amistad con Desdentao, un temido dragón Furia Nocturna. Su insólito vínculo revela la verdadera naturaleza de los dragones y desafía los cimientos de la sociedad vikinga.",
+    "link_imagen": "https://image.tmdb.org/t/p/original/kjQXYc2Abhy3TBgAZGzJRhN1JaV.jpg",
+    "rating": 7.929,
+    "link_pelicula": "kffkfk"
   }
 ]
