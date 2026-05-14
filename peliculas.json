@@ -1,1 +1,43 @@
-[]
+[
+  {
+    "id": 1778733056830,
+    "tmdb_id": 232125,
+    "tipo": "tv",
+    "titulo": "Yo soy Groot",
+    "anio": 2022,
+    "genero": [
+      "Animación",
+      "Comedia",
+      "Familia",
+      "Sci-Fi & Fantasy",
+      "Kids"
+    ],
+    "sinopsis": "Una serie de cortometrajes con Groot junto a varios personajes inusuales. Es infantil y molesta a todos los que le rodean: el árbol parlante Groot. Groot es tan tonto y poco razonable que tiene que abandonar la nave espacial del equipo de héroes y acaba aterrizando en un planeta extraño. Allí se encuentra con todo tipo de criaturas: Alienígenas y robots.",
+    "link_poster": "https://image.tmdb.org/t/p/original/285ULt4SlLQiYabsFGzuAv9r8ww.jpg",
+    "link_backdrop": "https://image.tmdb.org/t/p/original/bAnHzJ6AMhOhnV3C0kTxkpCqpgM.jpg",
+    "link_imagen": "https://image.tmdb.org/t/p/original/285ULt4SlLQiYabsFGzuAv9r8ww.jpg",
+    "rating": 7.029,
+    "temporadas": {
+      "2": [
+        {
+          "episode_number": 1,
+          "name": "¿Eres tú mi Groot?",
+          "link_still": "https://image.tmdb.org/t/p/original/rJelmgL1yTFfH2PhC3LufMhYQko.jpg",
+          "link_video": "fkfkxkx"
+        },
+        {
+          "episode_number": 2,
+          "name": "Groot asoma las narices",
+          "link_still": "https://image.tmdb.org/t/p/original/bf39ykfbUodisUirJXcUbI8bRFe.jpg",
+          "link_video": "kdzkzkzk"
+        },
+        {
+          "episode_number": 3,
+          "name": "Groot en la nieve",
+          "link_still": "https://image.tmdb.org/t/p/original/6H9lUVRUJyWn7t0VAix83TszrfJ.jpg",
+          "link_video": "ekdkdk"
+        }
+      ]
+    }
+  }
+]
