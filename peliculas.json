@@ -61,5 +61,21 @@
     "link_imagen": "",
     "link_trailer": "",
     "rating": 0
+  },
+  {
+    "id": 1778725398147,
+    "tmdb_id": 610150,
+    "tipo": "movie",
+    "titulo": "Dragon Ball Super: Super Hero",
+    "anio": 2022,
+    "genero": [
+      "Animación",
+      "Ciencia ficción",
+      "Acción"
+    ],
+    "sinopsis": "Son Goku destruyó en su momento al Ejército Red Ribbon. Ahora, ciertos individuos han decidido continuar con su legado y han creado a los androides definitivos: Gamma 1 y Gamma 2. Estos dos androides se autoproclaman \"superhéroes\" y deciden atacar a Piccolo y a Gohan. ¿Cuál es el objetivo del Nuevo Ejército Red Ribbon?  Ante un peligro inminente, ¡llega el momento del despertar del Superhéroe!",
+    "link_imagen": "https://image.tmdb.org/t/p/original/dZH9gp0XQnjzYRYMGSwateGIXlB.jpg",
+    "rating": 7.88,
+    "link_pelicula": "fkxxkzkzk"
   }
 ]
