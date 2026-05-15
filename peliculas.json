@@ -60,16 +60,5 @@
     "rating": 8.02,
     "link_pelicula": "dkdkdkd",
     "destacado": false
-  },
-  {
-    "id": 1778807266304,
-    "tmdb_id": 83533,
-    "tipo": "movie",
-    "titulo": "Avatar: Fuego y ceniza",
-    "anio": "2025",
-    "link_poster": "https://image.tmdb.org/t/p/original/4n1U0Mwn7djux6VKNYDRWPgS2x6.jpg",
-    "link_backdrop": "https://image.tmdb.org/t/p/original/iN41Ccw4DctL8npfmYg1j5Tr1eb.jpg",
-    "destacado": true,
-    "link_pelicula": ""
   }
 ]
