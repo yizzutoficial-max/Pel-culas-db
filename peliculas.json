@@ -41,7 +41,8 @@
     },
     "link_pelicula": "",
     "destacado": true,
-    "carrusel": false
+    "carrusel": false,
+    "carruselTexto": ""
   },
   {
     "id": 1778733075477,
@@ -63,6 +64,7 @@
     "destacado": false,
     "en_carrusel": false,
     "prioridad_carrusel": 999,
-    "carrusel": true
+    "carrusel": true,
+    "carruselTexto": "CARRUSEL"
   }
 ]
