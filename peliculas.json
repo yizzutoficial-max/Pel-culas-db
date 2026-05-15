@@ -59,6 +59,8 @@
     "link_imagen": "https://image.tmdb.org/t/p/original/ugX4WZJO3jEvTOerctAWJLinujo.jpg",
     "rating": 8.02,
     "link_pelicula": "dkdkdkd",
-    "destacado": false
+    "destacado": false,
+    "en_carrusel": true,
+    "prioridad_carrusel": 5
   }
 ]
