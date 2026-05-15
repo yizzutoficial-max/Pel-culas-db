@@ -65,6 +65,6 @@
     "en_carrusel": false,
     "prioridad_carrusel": 999,
     "carrusel": true,
-    "carruselTexto": "CARRUSEL"
+    "carruselTexto": ""
   }
 ]
