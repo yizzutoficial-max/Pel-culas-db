@@ -56,6 +56,7 @@
     "link_backdrop": "https://image.tmdb.org/t/p/original/9BBTo63ANSmhC4e6r62OJFuK2GL.jpg",
     "link_imagen": "https://image.tmdb.org/t/p/original/ugX4WZJO3jEvTOerctAWJLinujo.jpg",
     "rating": 8.02,
-    "link_pelicula": "dkdkdkd"
+    "link_pelicula": "dkdkdkd",
+    "destacado": true
   }
 ]
