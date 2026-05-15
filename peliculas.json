@@ -62,5 +62,25 @@
     "destacado": false,
     "en_carrusel": false,
     "prioridad_carrusel": 999
+  },
+  {
+    "id": 1778808607682,
+    "tmdb_id": 83533,
+    "tipo": "movie",
+    "titulo": "Avatar: Fuego y ceniza",
+    "anio": 2025,
+    "genero": [
+      "Ciencia ficción",
+      "Aventura",
+      "Fantasía"
+    ],
+    "sinopsis": "Jake Sully y Neytiri enfrentan una nueva amenaza en Pandora: los Ash People, una tribu Na'vi violenta y sedienta de poder, liderada por la implacable Varang. Tras la devastadora guerra contra la RDA y la pérdida de su hijo mayor, la familia de Jake deberá luchar por su supervivencia y el futuro de Pandora en un conflicto que llevará a los personajes a sus límites emocionales y físicos. Con nuevos y antiguos aliados, esta épica visual y emocional redefine el destino de un mundo al borde del abismo.",
+    "link_poster": "https://image.tmdb.org/t/p/original/4n1U0Mwn7djux6VKNYDRWPgS2x6.jpg",
+    "link_backdrop": "https://image.tmdb.org/t/p/original/iN41Ccw4DctL8npfmYg1j5Tr1eb.jpg",
+    "link_imagen": "https://image.tmdb.org/t/p/original/4n1U0Mwn7djux6VKNYDRWPgS2x6.jpg",
+    "rating": 7.439,
+    "link_pelicula": "yhahahau",
+    "en_carrusel": true,
+    "prioridad_carrusel": 1
   }
 ]
