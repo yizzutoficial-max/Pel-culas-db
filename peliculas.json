@@ -60,7 +60,7 @@
     "rating": 8.02,
     "link_pelicula": "dkdkdkd",
     "destacado": false,
-    "en_carrusel": true,
-    "prioridad_carrusel": 5
+    "en_carrusel": false,
+    "prioridad_carrusel": 999
   }
 ]
