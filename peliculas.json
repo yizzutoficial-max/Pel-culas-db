@@ -41,7 +41,7 @@
     },
     "link_pelicula": "",
     "destacado": true,
-    "carrusel": false,
+    "carrusel": true,
     "carruselTexto": "CARRUSEL"
   },
   {
