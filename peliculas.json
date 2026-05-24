@@ -126,5 +126,16 @@
     ],
     "link_canal": "https://la14hd.com/vivo/canales.php?stream=espn2",
     "link_imagen": "https://www.freepnglogos.com/uploads/espn-png-logo/pn-white-png-logo-18.png"
+  },
+  {
+    "id": 1779609794357,
+    "tipo": "live",
+    "titulo": "ESPN 3",
+    "referencia": "CANALES",
+    "genero": [
+      "Deportes"
+    ],
+    "link_canal": "https://la14hd.com/vivo/canales.php?stream=espn3",
+    "link_imagen": "https://www.freepnglogos.com/uploads/espn-png-logo/pn-white-png-logo-18.png"
   }
 ]
