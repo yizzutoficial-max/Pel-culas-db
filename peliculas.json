@@ -106,17 +106,6 @@
     "carruselTexto": ""
   },
   {
-    "id": 1779611095273,
-    "tipo": "live",
-    "titulo": "WIN SPORTS",
-    "referencia": "CANALES",
-    "genero": [
-      "Deportes"
-    ],
-    "link_canal": "https://la14hd.com/vivo/canales.php?stream=winsports",
-    "link_imagen": "https://static.wikia.nocookie.net/logopedia/images/6/6f/WinSports2018.png/revision/latest?cb=20210307135254&path-prefix=es"
-  },
-  {
     "id": 1779611183737,
     "tipo": "live",
     "titulo": "WIN SPORTS+",
