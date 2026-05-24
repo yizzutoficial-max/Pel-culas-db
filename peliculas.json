@@ -106,16 +106,6 @@
     "carruselTexto": ""
   },
   {
-    "tipo": "live",
-    "titulo": "ESPN",
-    "referencia": "CANALES",
-    "genero": [
-      "Deportes"
-    ],
-    "link_canal": "https://la14hd.com/vivo/canales.php?stream=espn",
-    "link_poster": "https://symphoniclatino.com/wp-content/uploads/2020/05/ESPN-Logo.png"
-  },
-  {
     "id": 1779609735932,
     "tipo": "live",
     "titulo": "ESPN 2",
