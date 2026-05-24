@@ -115,5 +115,16 @@
     ],
     "link_canal": "https://la14hd.com/vivo/canales.php?stream=espn",
     "link_imagen": "https://www.freepnglogos.com/uploads/espn-png-logo/pn-white-png-logo-18.png"
+  },
+  {
+    "id": 1779609735932,
+    "tipo": "live",
+    "titulo": "ESPN 2",
+    "referencia": "CANALES",
+    "genero": [
+      "Deportes"
+    ],
+    "link_canal": "https://la14hd.com/vivo/canales.php?stream=espn2",
+    "link_imagen": "https://www.freepnglogos.com/uploads/espn-png-logo/pn-white-png-logo-18.png"
   }
 ]
