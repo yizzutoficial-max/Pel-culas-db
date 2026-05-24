@@ -192,5 +192,16 @@
     ],
     "link_canal": "https://la14hd.com/vivo/canales.php?stream=winsports",
     "link_imagen": "https://static.wikia.nocookie.net/logopedia/images/6/6f/WinSports2018.png/revision/latest?cb=20210307135254&path-prefix=es"
+  },
+  {
+    "id": 1779611183737,
+    "tipo": "live",
+    "titulo": "WIN SPORTS+",
+    "referencia": "CANALES",
+    "genero": [
+      "Deportes"
+    ],
+    "link_canal": "https://la14hd.com/vivo/canales.php?stream=winsportsplus",
+    "link_imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/3840px-Win_Sports%2B_logo.svg.png"
   }
 ]
