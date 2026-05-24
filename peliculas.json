@@ -106,7 +106,6 @@
     "carruselTexto": ""
   },
   {
-    "id": 1779609289696,
     "tipo": "live",
     "titulo": "ESPN",
     "referencia": "CANALES",
@@ -114,7 +113,7 @@
       "Deportes"
     ],
     "link_canal": "https://la14hd.com/vivo/canales.php?stream=espn",
-    "link_imagen": "https://static.wikia.nocookie.net/telepedia-es/images/9/99/ESPN_logo.png/revision/latest?cb=20210826204726&path-prefix=es"
+    "link_poster": "https://symphoniclatino.com/wp-content/uploads/2020/05/ESPN-Logo.png"
   },
   {
     "id": 1779609735932,
