@@ -104,16 +104,5 @@
     "rating": 8.111,
     "link_pelicula": "https://archive.org/download/tg_50b28229772947dd9118681f0b861f67/T0aViNYlLMxb.mp4",
     "carruselTexto": ""
-  },
-  {
-    "id": 1779607037486,
-    "tipo": "live",
-    "titulo": "ESPN",
-    "genero": [
-      "Deportes"
-    ],
-    "link_canal": "https://la14hd.com/vivo/canales.php?stream=espn",
-    "link_poster": "https://www.freepnglogos.com/uploads/espn-png-logo/pn-white-png-logo-18.png",
-    "link_imagen": "https://www.freepnglogos.com/uploads/espn-png-logo/pn-white-png-logo-18.png"
   }
 ]
