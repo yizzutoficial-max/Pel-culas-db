@@ -203,5 +203,16 @@
     ],
     "link_canal": "https://la14hd.com/vivo/canales.php?stream=winsportsplus",
     "link_imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/3840px-Win_Sports%2B_logo.svg.png"
+  },
+  {
+    "id": 1779611446394,
+    "tipo": "live",
+    "titulo": "DSPORTS",
+    "referencia": "CANALES",
+    "genero": [
+      "Deportes"
+    ],
+    "link_canal": "https://la14hd.com/vivo/canales.php?stream=dsports",
+    "link_imagen": "https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png"
   }
 ]
