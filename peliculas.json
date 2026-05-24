@@ -159,5 +159,16 @@
     ],
     "link_canal": "https://la14hd.com/vivo/canales.php?stream=espn5",
     "link_imagen": "https://www.freepnglogos.com/uploads/espn-png-logo/pn-white-png-logo-18.png"
+  },
+  {
+    "id": 1779610394130,
+    "tipo": "live",
+    "titulo": "ESPN 6",
+    "referencia": "CANALES",
+    "genero": [
+      "Deportes"
+    ],
+    "link_canal": "https://la14hd.com/vivo/canales.php?stream=espn6",
+    "link_imagen": "https://www.freepnglogos.com/uploads/espn-png-logo/pn-white-png-logo-18.png"
   }
 ]
