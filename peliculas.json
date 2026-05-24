@@ -106,17 +106,6 @@
     "carruselTexto": ""
   },
   {
-    "id": 1779610306338,
-    "tipo": "live",
-    "titulo": "ESPN 5",
-    "referencia": "CANALES",
-    "genero": [
-      "Deportes"
-    ],
-    "link_canal": "https://la14hd.com/vivo/canales.php?stream=espn5",
-    "link_imagen": "https://static.wikia.nocookie.net/telepedia-es/images/9/99/ESPN_logo.png/revision/latest?cb=20210826204726&path-prefix=es"
-  },
-  {
     "id": 1779611095273,
     "tipo": "live",
     "titulo": "WIN SPORTS",
