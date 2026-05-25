@@ -42,7 +42,8 @@
     "link_pelicula": "",
     "destacado": true,
     "carrusel": true,
-    "carruselTexto": "CARRUSEL"
+    "carruselTexto": "CARRUSEL",
+    "enCarrusel": false
   },
   {
     "id": 1778733075477,
@@ -65,7 +66,8 @@
     "en_carrusel": false,
     "prioridad_carrusel": 999,
     "carrusel": true,
-    "carruselTexto": "CARRUSEL"
+    "carruselTexto": "CARRUSEL",
+    "enCarrusel": false
   },
   {
     "id": 1779143842018,
@@ -84,7 +86,8 @@
     "link_imagen": "https://image.tmdb.org/t/p/original/l8Y8o3RpFg54gmQQ8GVaxVroFmY.jpg",
     "rating": 8.111,
     "link_pelicula": "https://archive.org/download/tg_50b28229772947dd9118681f0b861f67/T0aViNYlLMxb.mp4",
-    "carruselTexto": ""
+    "carruselTexto": "",
+    "enCarrusel": false
   },
   {
     "id": 1779653845706,
@@ -95,7 +98,8 @@
     ],
     "link_canal": "https://la14hd.com/vivo/canales.php?stream=espn",
     "link_poster": "https://symphoniclatino.com/wp-content/uploads/2020/05/ESPN-Logo.png",
-    "link_imagen": "https://symphoniclatino.com/wp-content/uploads/2020/05/ESPN-Logo.png"
+    "link_imagen": "https://symphoniclatino.com/wp-content/uploads/2020/05/ESPN-Logo.png",
+    "enCarrusel": false
   },
   {
     "id": 1779662734138,
@@ -113,6 +117,7 @@
     "link_backdrop": "https://image.tmdb.org/t/p/original/iN41Ccw4DctL8npfmYg1j5Tr1eb.jpg",
     "link_imagen": "https://image.tmdb.org/t/p/original/4n1U0Mwn7djux6VKNYDRWPgS2x6.jpg",
     "rating": 7.496,
-    "link_pelicula": "nnakakkaka"
+    "link_pelicula": "nnakakkaka",
+    "enCarrusel": true
   }
 ]
