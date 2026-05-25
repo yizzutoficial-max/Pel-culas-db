@@ -1,29 +1,5 @@
 [
   {
-    "id": 1778733075477,
-    "tmdb_id": 24428,
-    "tipo": "movie",
-    "titulo": "Los Vengadores",
-    "anio": 2012,
-    "genero": [
-      "Ciencia ficción",
-      "Acción",
-      "Aventura"
-    ],
-    "sinopsis": "Cuando un enemigo inesperado surge como una gran amenaza para la seguridad mundial, Nick Fury, director de la Agencia SHIELD, decide reclutar a un equipo para salvar al mundo de un desastre casi seguro.",
-    "link_poster": "https://image.tmdb.org/t/p/original/ugX4WZJO3jEvTOerctAWJLinujo.jpg",
-    "link_backdrop": "https://image.tmdb.org/t/p/original/9BBTo63ANSmhC4e6r62OJFuK2GL.jpg",
-    "link_imagen": "https://image.tmdb.org/t/p/original/ugX4WZJO3jEvTOerctAWJLinujo.jpg",
-    "rating": 8.02,
-    "link_pelicula": "https://archive.org/download/tg_50b28229772947dd9118681f0b861f67/T0aViNYlLMxb.mp4",
-    "destacado": false,
-    "en_carrusel": false,
-    "prioridad_carrusel": 999,
-    "carrusel": true,
-    "carruselTexto": "CARRUSEL",
-    "enCarrusel": false
-  },
-  {
     "id": 1779653845706,
     "tipo": "live",
     "titulo": "ESPN",
