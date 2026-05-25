@@ -1,27 +1,5 @@
 [
   {
-    "id": 1779714450106,
-    "tmdb_id": 1226863,
-    "tipo": "movie",
-    "titulo": "Super Mario Galaxy la película",
-    "anio": 2026,
-    "genero": [
-      "Familia",
-      "Comedia",
-      "Aventura",
-      "Fantasía",
-      "Animación"
-    ],
-    "sinopsis": "Secuela de 'Super Mario Bros: La película', basada en la saga 'Mario Galaxy'. Los hermanos Mario y Luigi y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia.",
-    "link_poster": "https://image.tmdb.org/t/p/original/79EVB4qhyfrdlMgT8GIRAikdzsQ.jpg",
-    "link_backdrop": "https://image.tmdb.org/t/p/original/z2KBunf43McIAsLlyoGh0E5JIpY.jpg",
-    "link_imagen": "https://image.tmdb.org/t/p/original/79EVB4qhyfrdlMgT8GIRAikdzsQ.jpg",
-    "rating": 7.925,
-    "link_pelicula": "yhahahau",
-    "referencia": "CARRUSEL",
-    "idioma_imagen": "desconocido"
-  },
-  {
     "id": 1779714487419,
     "tmdb_id": 83533,
     "tipo": "movie",
