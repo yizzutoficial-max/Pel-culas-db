@@ -38,24 +38,5 @@
     "link_pelicula": "yhahahau",
     "referencia": "CARRUSEL",
     "idioma_imagen": "desconocido"
-  },
-  {
-    "id": 1779715321806,
-    "tmdb_id": 1315303,
-    "tipo": "movie",
-    "titulo": "Primate",
-    "anio": 2026,
-    "genero": [
-      "Terror",
-      "Suspense"
-    ],
-    "sinopsis": "Lucy, una estudiante universitaria, pasa las vacaciones con sus amigos en la casa de su familia en Hawái, donde vive con su mascota, un chimpancé llamado Ben. Sin embargo, cuando Ben contrae rabia tras ser mordido por un animal rabioso, el grupo debe luchar por su vida para evitar al ahora violento chimpancé.",
-    "link_poster": "https://image.tmdb.org/t/p/original/qhJDrPqvw8Dopwc11pCkrGgfhy.jpg",
-    "link_backdrop": "https://image.tmdb.org/t/p/original/epV8l6VQJfQDCu8G5BtZggNakVX.jpg",
-    "link_imagen": "https://image.tmdb.org/t/p/original/qhJDrPqvw8Dopwc11pCkrGgfhy.jpg",
-    "rating": 6.5,
-    "link_pelicula": "jajjajsjsjhahahha",
-    "referencia": "CARRUSEL",
-    "idioma_imagen": "es"
   }
 ]
