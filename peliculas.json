@@ -119,34 +119,6 @@
     "idioma_imagen": "es"
   },
   {
-    "id": 1779782002998,
-    "tmdb_id": 1438,
-    "tipo": "tv",
-    "titulo": "Bajo escucha",
-    "anio": 2002,
-    "genero": [
-      "Crimen",
-      "Drama"
-    ],
-    "sinopsis": "David Simon, creador y coguionista de la miniserie de HBO tres veces ganadora del premio Emmy The Corner, este sencillo y extremadamente realista drama sigue una caótica y controvertida investigación de drogas y asesinatos en Baltimore que conllevará peligrosos pinchazos telefónicos y continua vigilancia. Mostrando ambas perspectivas, de la policía y de sus criminales, la serie captura un universo donde distinguir entre el bien y el mal, el delito y la condena, es siempre desafío.",
-    "link_poster": "https://image.tmdb.org/t/p/original/braWWl9gsvAp9pOKqGGQMv6QVrQ.jpg",
-    "link_backdrop": "https://image.tmdb.org/t/p/original/ljVRHZ8f1wbgDwgtyj7ZEChSTok.jpg",
-    "link_imagen": "https://image.tmdb.org/t/p/original/braWWl9gsvAp9pOKqGGQMv6QVrQ.jpg",
-    "rating": 8.625,
-    "temporadas": {
-      "1": [
-        {
-          "episode_number": 1,
-          "name": "El objetivo",
-          "link_still": "https://image.tmdb.org/t/p/original/6Nvita938dYtiMXOIEYsjKzTJ1.jpg",
-          "link_video": "rrtyukk"
-        }
-      ]
-    },
-    "referencia": "",
-    "idioma_imagen": "es"
-  },
-  {
     "id": 1779903682795,
     "tmdb_id": 9312,
     "tipo": "movie",
