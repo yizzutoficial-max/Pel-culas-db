@@ -179,6 +179,7 @@
       "CARRUSEL",
       "CARRUSELSERIES"
     ],
-    "link_pelicula": ""
+    "link_pelicula": "",
+    "referencia": "CARRUSEL,CARRUSELSERIES"
   }
 ]
