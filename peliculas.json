@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": 1779923080648,
+    "tmdb_id": 936075,
+    "tipo": "movie",
+    "titulo": "Michael",
+    "anio": 2026,
+    "genero": [
+      "Música",
+      "Drama"
+    ],
+    "sinopsis": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
+    "link_poster": "https://image.tmdb.org/t/p/original/mB3zisIw3bsQcoDSnvMPAQhjrTM.jpg",
+    "link_backdrop": "https://image.tmdb.org/t/p/original/whvcV9TbiBf9OLFz6E1BNy3dY9p.jpg",
+    "link_imagen": "https://image.tmdb.org/t/p/original/mB3zisIw3bsQcoDSnvMPAQhjrTM.jpg",
+    "rating": 7.593,
+    "link_pelicula": "hahhahahjdjdi",
+    "referencias": [
+      "CARRUSEL"
+    ],
+    "idioma_imagen": "es"
+  }
+]
