@@ -174,5 +174,24 @@
     },
     "referencia": "",
     "idioma_imagen": "es"
+  },
+  {
+    "id": 1779903682795,
+    "tmdb_id": 9312,
+    "tipo": "movie",
+    "titulo": "Mortal Kombat",
+    "anio": 1995,
+    "genero": [
+      "Acción",
+      "Fantasía"
+    ],
+    "sinopsis": "Durante nueve generaciones, Shang Tsung, un brujo malvado, ha llevado a un poderoso príncipe a la victoria contra sus mortales enemigos. Si vence el décimo torneo Mortal Kombat, la desolación y el mal que han florecido en el mundo exterior reinarán la Tierra por siempre.",
+    "link_poster": "https://image.tmdb.org/t/p/original/fcK7tzSSXMYiMN8E9KlZJL1BYyp.jpg",
+    "link_backdrop": "https://image.tmdb.org/t/p/original/9eSoJrj8LkbUzuPSJzgSXWKexKj.jpg",
+    "link_imagen": "https://image.tmdb.org/t/p/original/fcK7tzSSXMYiMN8E9KlZJL1BYyp.jpg",
+    "rating": 5.893,
+    "link_pelicula": "jajajjajsjj",
+    "referencia": "",
+    "idioma_imagen": "en"
   }
 ]
