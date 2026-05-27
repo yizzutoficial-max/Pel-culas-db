@@ -18,8 +18,10 @@
     "link_imagen": "https://image.tmdb.org/t/p/original/79EVB4qhyfrdlMgT8GIRAikdzsQ.jpg",
     "rating": 7.925,
     "link_pelicula": "yhahahau",
-    "referencia": "CARRUSEL",
-    "idioma_imagen": "es"
+    "idioma_imagen": "es",
+    "referencias": [
+      "CARRUSEL"
+    ]
   },
   {
     "id": 1779720228181,
@@ -38,8 +40,10 @@
     "link_imagen": "https://image.tmdb.org/t/p/original/l8Y8o3RpFg54gmQQ8GVaxVroFmY.jpg",
     "rating": 8.133,
     "link_pelicula": "yhahahau",
-    "referencia": "CARRUSEL",
-    "idioma_imagen": "es"
+    "idioma_imagen": "es",
+    "referencias": [
+      "CARRUSEL"
+    ]
   },
   {
     "id": 1779720243041,
@@ -58,8 +62,10 @@
     "link_imagen": "https://image.tmdb.org/t/p/original/vHtH4xdcTbaCVftGwaeGFHfOB3p.jpg",
     "rating": 7.497,
     "link_pelicula": "yhahahau",
-    "referencia": "CARRUSEL",
-    "idioma_imagen": "es"
+    "idioma_imagen": "es",
+    "referencias": [
+      "CARRUSEL"
+    ]
   },
   {
     "id": 1779720290310,
@@ -77,8 +83,10 @@
     "link_imagen": "https://image.tmdb.org/t/p/original/qhJDrPqvw8Dopwc11pCkrGgfhy.jpg",
     "rating": 6.5,
     "link_pelicula": "yhahahau",
-    "referencia": "CARRUSEL",
-    "idioma_imagen": "es"
+    "idioma_imagen": "es",
+    "referencias": [
+      "CARRUSEL"
+    ]
   },
   {
     "id": 1779720320049,
@@ -96,8 +104,10 @@
     "link_imagen": "https://image.tmdb.org/t/p/original/mB3zisIw3bsQcoDSnvMPAQhjrTM.jpg",
     "rating": 7.587,
     "link_pelicula": "yhahahau",
-    "referencia": "CARRUSEL",
-    "idioma_imagen": "es"
+    "idioma_imagen": "es",
+    "referencias": [
+      "CARRUSEL"
+    ]
   },
   {
     "id": 1779723355905,
@@ -115,8 +125,8 @@
     "link_imagen": "https://image.tmdb.org/t/p/original/dJqv61OB3jsdUEOJTaOGZ64ZLeD.jpg",
     "rating": 7.212,
     "link_pelicula": "jajajjssjjañ",
-    "referencia": "",
-    "idioma_imagen": "es"
+    "idioma_imagen": "es",
+    "referencias": []
   },
   {
     "id": 1779903682795,
@@ -134,8 +144,8 @@
     "link_imagen": "https://image.tmdb.org/t/p/original/fcK7tzSSXMYiMN8E9KlZJL1BYyp.jpg",
     "rating": 5.893,
     "link_pelicula": "jajajjajsjj",
-    "referencia": "",
-    "idioma_imagen": "en"
+    "idioma_imagen": "en",
+    "referencias": []
   },
   {
     "id": 1779918482637,
@@ -163,7 +173,11 @@
         }
       ]
     },
-    "referencia": "CARRUSELSERIES",
-    "idioma_imagen": "en"
+    "idioma_imagen": "en",
+    "referencias": [
+      "CARRUSEL",
+      "CARRUSELSERIES"
+    ],
+    "link_pelicula": ""
   }
 ]
