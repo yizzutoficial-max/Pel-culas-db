@@ -21,37 +21,6 @@
     "idioma_imagen": "es"
   },
   {
-    "id": 1779924992484,
-    "tmdb_id": 124364,
-    "tipo": "tv",
-    "titulo": "FROM",
-    "anio": 2022,
-    "genero": [
-      "Misterio",
-      "Drama",
-      "Sci-Fi & Fantasy"
-    ],
-    "sinopsis": "Desvela el misterio de un pueblo de pesadilla en el centro de Norteamérica que atrapa a todos los que entran. Mientras los residentes involuntarios luchan por mantener una sensación de normalidad y buscan una salida, también deben sobrevivir a las amenazas del bosque circundante, incluidas las aterradoras criaturas que salen cuando se pone el sol.",
-    "link_poster": "https://image.tmdb.org/t/p/original/pRtJagIxpfODzzb0T0NAvZSzErC.jpg",
-    "link_backdrop": "https://image.tmdb.org/t/p/original/7xE39DetjwtJYDtoKKpCL1D1wAJ.jpg",
-    "link_imagen": "https://image.tmdb.org/t/p/original/pRtJagIxpfODzzb0T0NAvZSzErC.jpg",
-    "rating": 8.41,
-    "temporadas": {
-      "1": [
-        {
-          "episode_number": 1,
-          "name": "El largo viaje del día hacia la noche",
-          "link_still": "https://image.tmdb.org/t/p/original/6VKsznJrIq1q87Hot5EEPuvub1g.jpg",
-          "link_video": "rrtyukk"
-        }
-      ]
-    },
-    "referencia": "CARRUSEL",
-    "referencia_2": "CARRUSELSERIES",
-    "referencia_3": "",
-    "idioma_imagen": "en"
-  },
-  {
     "id": 1779926303896,
     "tmdb_id": 1438,
     "tipo": "tv",
