@@ -80,36 +80,5 @@
     "referencia_2": "CARRUSELSERIES",
     "referencia_3": "",
     "idioma_imagen": "en"
-  },
-  {
-    "id": 1780108749830,
-    "tmdb_id": 12971,
-    "tipo": "tv",
-    "titulo": "Dragon Ball Z",
-    "anio": 1989,
-    "genero": [
-      "Animación",
-      "Sci-Fi & Fantasy",
-      "Action & Adventure"
-    ],
-    "sinopsis": "La historia de Dragon Ball Z se divide en cuatro ramas centrales, repartidas en un total de 291 episodios. La primera abarca desde que Son Gohan, hijo de Goku, es raptado por el saiyan Raditz. La etapa de Freezer lleva a Goku, Krillin, Vegeta y Bulma al planeta Namek. Después viene la Saga de los Androides, que da comienzo cuando tres androides (A16, A17, A18) comienzan a aterrorizar la tierra, hasta la llegada de Cell. La última etapa de Z la cubre la Saga de Bu. Comienza cuando Babidi, un brujo bastante ambicioso, comienza un plan para resucitar al poderoso Majin Bu, un ente capaz de poner la tierra a su favor en un par de movimientos.",
-    "link_poster": "https://image.tmdb.org/t/p/original/ogH4r9HsimigseBNLzHn4uVNOxh.jpg",
-    "link_backdrop": "https://image.tmdb.org/t/p/original/aGEPZs4UYGULNdCmaMU05LNCO6W.jpg",
-    "link_imagen": "https://image.tmdb.org/t/p/original/ogH4r9HsimigseBNLzHn4uVNOxh.jpg",
-    "rating": 8.362,
-    "temporadas": {
-      "1": [
-        {
-          "episode_number": 1,
-          "name": "Un misterioso guerrero",
-          "link_still": "https://image.tmdb.org/t/p/original/qcYJj4oIkAWpPbOE1LjXJ2l2d6W.jpg",
-          "link_video": "rrtyukk"
-        }
-      ]
-    },
-    "referencia": "CARRUSEL",
-    "referencia_2": "",
-    "referencia_3": "",
-    "idioma_imagen": "es"
   }
 ]
