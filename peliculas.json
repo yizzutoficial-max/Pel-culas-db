@@ -67,5 +67,25 @@
     ],
     "referencia": "CARRUSEL",
     "referencia_2": "SERIESC"
+  },
+  {
+    "id": 1780380832074,
+    "tmdb_id": 1361184,
+    "tipo": "anime",
+    "titulo": "Dragon Ball DAIMA",
+    "anio": 2024,
+    "sinopsis": "",
+    "link_poster": "https://image.tmdb.org/t/p/w500/5h3okzbCgJ9iEGelXoXVh1tlqGi.jpg",
+    "link_backdrop": "https://image.tmdb.org/t/p/original/vDUFwKIpLOxwYKSEq4VUjJ9wcbW.jpg",
+    "link_imagen": "https://image.tmdb.org/t/p/w500/5h3okzbCgJ9iEGelXoXVh1tlqGi.jpg",
+    "link_pelicula": "jxjxjf",
+    "genero": [
+      "Animación",
+      "Aventura",
+      "Comedia",
+      "Acción"
+    ],
+    "referencia": "CARRUSEL",
+    "referencia_2": "SERIESC"
   }
 ]
