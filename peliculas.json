@@ -10,7 +10,7 @@
       "Drama",
       "Sci-Fi & Fantasy"
     ],
-    "sinopsis": "Desvela el misterio de un pueblo de pesadilla en el centro de Norteamérica que atrapa a todos los que entran. Mientras los residentes involuntarios luchan por mantener una sensación de normalidad y buscan una salida, también deben sobrevivir a las amenazas del bosque circundante, incluidas las aterradoras criaturas que salen cuando se pone el sol.",
+    "sinopsis": "Desvela el misterio de un pueblo de pesadilla en el centro de NorteamÃ©rica que atrapa a todos los que entran. Mientras los residentes involuntarios luchan por mantener una sensaciÃ³n de normalidad y buscan una salida, tambiÃ©n deben sobrevivir a las amenazas del bosque circundante, incluidas las aterradoras criaturas que salen cuando se pone el sol.",
     "link_poster": "https://image.tmdb.org/t/p/w500/pRtJagIxpfODzzb0T0NAvZSzErC.jpg",
     "link_backdrop": "https://image.tmdb.org/t/p/original/tS8PQabvc5jVTOYPyOQgOiotIK0.jpg",
     "link_imagen": "https://image.tmdb.org/t/p/w500/pRtJagIxpfODzzb0T0NAvZSzErC.jpg",
@@ -19,7 +19,7 @@
       "1": [
         {
           "episode_number": 1,
-          "name": "El largo viaje del día hacia la noche",
+          "name": "El largo viaje del dÃ­a hacia la noche",
           "link_still": "https://image.tmdb.org/t/p/original/6VKsznJrIq1q87Hot5EEPuvub1g.jpg",
           "link_video": "hsshshs"
         }
@@ -39,7 +39,7 @@
       "Sci-Fi & Fantasy",
       "Action & Adventure"
     ],
-    "sinopsis": "La historia de Dragon Ball Z se divide en cuatro ramas centrales, repartidas en un total de 291 episodios. La primera abarca desde que Son Gohan, hijo de Goku, es raptado por el saiyan Raditz. La etapa de Freezer lleva a Goku, Krillin, Vegeta y Bulma al planeta Namek. Después viene la Saga de los Androides, que da comienzo cuando tres androides (A16, A17, A18) comienzan a aterrorizar la tierra, hasta la llegada de Cell. La última etapa de Z la cubre la Saga de Bu. Comienza cuando Babidi, un brujo bastante ambicioso, comienza un plan para resucitar al poderoso Majin Bu, un ente capaz de poner la tierra a su favor en un par de movimientos.",
+    "sinopsis": "La historia de Dragon Ball Z se divide en cuatro ramas centrales, repartidas en un total de 291 episodios. La primera abarca desde que Son Gohan, hijo de Goku, es raptado por el saiyan Raditz. La etapa de Freezer lleva a Goku, Krillin, Vegeta y Bulma al planeta Namek. DespuÃ©s viene la Saga de los Androides, que da comienzo cuando tres androides (A16, A17, A18) comienzan a aterrorizar la tierra, hasta la llegada de Cell. La Ãºltima etapa de Z la cubre la Saga de Bu. Comienza cuando Babidi, un brujo bastante ambicioso, comienza un plan para resucitar al poderoso Majin Bu, un ente capaz de poner la tierra a su favor en un par de movimientos.",
     "link_poster": "https://image.tmdb.org/t/p/w500/ogH4r9HsimigseBNLzHn4uVNOxh.jpg",
     "link_backdrop": "https://image.tmdb.org/t/p/original/aGEPZs4UYGULNdCmaMU05LNCO6W.jpg",
     "link_imagen": "https://image.tmdb.org/t/p/w500/ogH4r9HsimigseBNLzHn4uVNOxh.jpg",
@@ -48,5 +48,24 @@
     "referencia": "CARRUSEL",
     "referencia_2": "AnimeC",
     "idioma_imagen": "es"
+  },
+  {
+    "id": 1780380805244,
+    "tmdb_id": 610150,
+    "tipo": "anime",
+    "titulo": "Dragon Ball Super: Super Hero",
+    "anio": 2022,
+    "sinopsis": "Son Goku destruyó en su momento al Ejército Red Ribbon. Ahora, ciertos individuos han decidido continuar con su legado y han creado a los androides definitivos: Gamma 1 y Gamma 2. Estos dos androides se autoproclaman \"superhéroes\" y deciden atacar a Piccolo y a Gohan. ¿Cuál es el objetivo del Nuevo Ejército Red Ribbon?  Ante un peligro inminente, ¡llega el momento del despertar del Superhéroe!",
+    "link_poster": "https://image.tmdb.org/t/p/w500/dZH9gp0XQnjzYRYMGSwateGIXlB.jpg",
+    "link_backdrop": "https://image.tmdb.org/t/p/original/uR0FopHrAjDlG5q6PZB07a1JOva.jpg",
+    "link_imagen": "https://image.tmdb.org/t/p/w500/dZH9gp0XQnjzYRYMGSwateGIXlB.jpg",
+    "link_pelicula": "fkfkfk",
+    "genero": [
+      "Animación",
+      "Ciencia ficción",
+      "Acción"
+    ],
+    "referencia": "CARRUSEL",
+    "referencia_2": "SERIESC"
   }
 ]
