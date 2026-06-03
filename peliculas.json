@@ -122,5 +122,23 @@
     "link_imagen": "https://image.tmdb.org/t/p/w500/kfAiQqJGnfbQj52Bna7Ohlu04y3.jpg",
     "referencia": "CARRUSEL",
     "referencia_2": "PELICULAC"
+  },
+  {
+    "id": 1780499666989,
+    "tipo": "movie",
+    "titulo": "Avatar: Fuego y ceniza",
+    "rating": 7.5,
+    "anio": 2025,
+    "genero": [
+      "Ciencia ficción",
+      "Aventura",
+      "Fantasía"
+    ],
+    "sinopsis": "Devastados por la guerra contra la RDA y la perdida de su hijo mayor, Jake Sully y Neytiri se enfrentan a una nueva amenaza en Pandora: el pueblo de la ceniza, una violenta tribu Na'vi ávida de poder liderada por los despiadados Varang.",
+    "link_pelicula": "jhjkm",
+    "link_poster": "https://image.tmdb.org/t/p/w500/vHtH4xdcTbaCVftGwaeGFHfOB3p.jpg",
+    "link_backdrop": "https://image.tmdb.org/t/p/w500/el5qIXvvSPQOTYh6J6lNEvkw3pG.jpg",
+    "link_imagen": "https://image.tmdb.org/t/p/w500/vHtH4xdcTbaCVftGwaeGFHfOB3p.jpg",
+    "referencia_2": "PELICULAC"
   }
 ]
