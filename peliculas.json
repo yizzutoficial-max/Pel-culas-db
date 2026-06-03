@@ -192,5 +192,23 @@
     "link_backdrop": "https://image.tmdb.org/t/p/w500/4IIOSwhScdnZCptqrcH3cfQUq7y.jpg",
     "link_imagen": "https://image.tmdb.org/t/p/w500/or6XJBVpcEbIkma0V9zshnbEtx4.jpg",
     "referencia_2": "PELICULAC"
+  },
+  {
+    "id": 1780509690512,
+    "tipo": "Pelicula",
+    "titulo": "Sonic 3: La película",
+    "rating": 7.6,
+    "año": 2024,
+    "genero": [
+      "Acción",
+      "Ciencia ficción",
+      "Comedia",
+      "Familia"
+    ],
+    "sinopsis": "Sonic, Knuckles y Tails se reúnen para enfrentarse a un nuevo y poderoso adversario, Shadow, un misterioso villano con poderes nunca antes vistos. Con sus habilidades superadas en todos los sentidos, el Equipo Sonic debe buscar una alianza improbable con la esperanza de detener a Shadow y proteger el planeta.",
+    "link_pelicula": "uuwuwiqkkwkw",
+    "link_poster": "https://image.tmdb.org/t/p/w500/nRJH3KgLc3dMLaDJgLQ9u7CxsJg.jpg",
+    "link_backdrop": "https://image.tmdb.org/t/p/w500/kLHOkqTdxzxllm6Re3qHgFQZdlJ.jpg",
+    "link_imagen": "https://image.tmdb.org/t/p/w500/nRJH3KgLc3dMLaDJgLQ9u7CxsJg.jpg"
   }
 ]
