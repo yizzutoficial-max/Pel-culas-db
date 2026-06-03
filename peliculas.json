@@ -105,5 +105,22 @@
     "link_imagen": "https://image.tmdb.org/t/p/w500/iruzQaa7OHmtb6qKbW278v6Ml4b.jpg",
     "referencia": "CARRUSEL",
     "referencia_2": "PELICULAC"
+  },
+  {
+    "id": 1780499540387,
+    "tipo": "movie",
+    "titulo": "Scary Movie: Una película de miedo",
+    "rating": 6.4,
+    "anio": 2000,
+    "genero": [
+      "Comedia"
+    ],
+    "sinopsis": "Siguiendo los talones de las populares películas de terror adolescente-grito, con una comedia espeluznante y sátira mordaz. Marlon y Shawn Wayans, Shannon Elizabeth y Carmen Electra participan en el lanzamiento de algunos de los éxitos de taquilla más grandes de Hollywood, como Scream, Sé lo que hiciste el verano pasado, The Matrix, American Pie y The Blair Witch Project.",
+    "link_pelicula": "jhjkm",
+    "link_poster": "https://image.tmdb.org/t/p/w500/kfAiQqJGnfbQj52Bna7Ohlu04y3.jpg",
+    "link_backdrop": "https://image.tmdb.org/t/p/w500/lE5Hsi1IwjI2wgjslXmiz5Gcbm3.jpg",
+    "link_imagen": "https://image.tmdb.org/t/p/w500/kfAiQqJGnfbQj52Bna7Ohlu04y3.jpg",
+    "referencia": "CARRUSEL",
+    "referencia_2": "PELICULAC"
   }
 ]
