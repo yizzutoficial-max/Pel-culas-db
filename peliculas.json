@@ -121,6 +121,7 @@
     "link_pelicula": "jhjkm",
     "link_poster": "https://image.tmdb.org/t/p/w500/iruzQaa7OHmtb6qKbW278v6Ml4b.jpg",
     "link_backdrop": "https://image.tmdb.org/t/p/w500/wBH0qoJX7i3ptf4qdi6lcR9WMiE.jpg",
-    "link_imagen": "https://image.tmdb.org/t/p/w500/iruzQaa7OHmtb6qKbW278v6Ml4b.jpg"
+    "link_imagen": "https://image.tmdb.org/t/p/w500/iruzQaa7OHmtb6qKbW278v6Ml4b.jpg",
+    "referencia": "CARRUSEL"
   }
 ]
