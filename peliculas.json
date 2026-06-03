@@ -175,5 +175,22 @@
     "link_backdrop": "https://image.tmdb.org/t/p/w500/wBH0qoJX7i3ptf4qdi6lcR9WMiE.jpg",
     "link_imagen": "https://image.tmdb.org/t/p/w500/iruzQaa7OHmtb6qKbW278v6Ml4b.jpg",
     "referencia_2": "PELICULAC"
+  },
+  {
+    "id": 1780504242668,
+    "tipo": "Pelicula",
+    "titulo": "El hombre araña",
+    "rating": 7.3,
+    "año": 2002,
+    "genero": [
+      "Acción",
+      "Ciencia ficción"
+    ],
+    "sinopsis": "Cuando es mordido por una araña genéticamente modificada, un estudiante de secundaria nerd, tímido y torpe, adquiere habilidades parecidas a las de una araña que eventualmente debe usar para luchar contra el mal como un superhéroe después de que la tragedia cae sobre su familia.",
+    "link_pelicula": "ttyyy",
+    "link_poster": "https://image.tmdb.org/t/p/w500/or6XJBVpcEbIkma0V9zshnbEtx4.jpg",
+    "link_backdrop": "https://image.tmdb.org/t/p/w500/4IIOSwhScdnZCptqrcH3cfQUq7y.jpg",
+    "link_imagen": "https://image.tmdb.org/t/p/w500/or6XJBVpcEbIkma0V9zshnbEtx4.jpg",
+    "referencia_2": "PELICULAC"
   }
 ]
