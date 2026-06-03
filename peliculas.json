@@ -106,5 +106,21 @@
     ],
     "referencia": "",
     "referencia_2": "PELISC"
+  },
+  {
+    "id": 1780470704692,
+    "tipo": "movie",
+    "titulo": "Mi pobre angelito",
+    "rating": 7.5,
+    "anio": 1990,
+    "genero": [
+      "Comedia",
+      "Familia"
+    ],
+    "sinopsis": "Kevin McAllister es un niño de ocho años, miembro de una familia numerosa que accidentalmente se queda abandonado en su casa cuando toda la familia se marcha a pasar las vacaciones a Francia. Kevin aprende a valerse por sí mismo e incluso a protegerse de dos bribones que se proponen asaltar todas las casas cerradas de su vecindario.",
+    "link_pelicula": "jhjkm",
+    "link_poster": "https://image.tmdb.org/t/p/w500/iruzQaa7OHmtb6qKbW278v6Ml4b.jpg",
+    "link_backdrop": "https://image.tmdb.org/t/p/w500/wBH0qoJX7i3ptf4qdi6lcR9WMiE.jpg",
+    "link_imagen": "https://image.tmdb.org/t/p/w500/iruzQaa7OHmtb6qKbW278v6Ml4b.jpg"
   }
 ]
