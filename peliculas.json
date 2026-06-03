@@ -89,25 +89,6 @@
     "referencia_2": "SERIESC"
   },
   {
-    "id": 1780380892355,
-    "tmdb_id": 616037,
-    "tipo": "movie",
-    "titulo": "Thor: Love and Thunder",
-    "anio": 2022,
-    "sinopsis": "El Dios del Trueno emprende un viaje que no se parece en nada a lo que se ha enfrentado hasta ahora: una búsqueda de la paz interior. Pero el retiro de Thor se ve interrumpido por un asesino galáctico conocido como Gorr el Carnicero de Dioses. Para hacer frente a la amenaza, Thor solicita la ayuda de Valkiria, de Korg y de su ex novia Jane Foster que, para sorpresa de Thor, empuña su martillo mágico, Mjolnir, como la Poderosa Thor. Juntos, se embarcan en una aventura cósmica en la que tendrán que descubrir el misterio de la venganza del Carnicero de Dioses y detenerlo antes de que sea demasiado tarde.",
-    "link_poster": "https://image.tmdb.org/t/p/w500/z9ajF6E39Hg2pXUofmUYgZHvdX.jpg",
-    "link_backdrop": "https://image.tmdb.org/t/p/original/jsoz1HlxczSuTx0mDl2h0lxy36l.jpg",
-    "link_imagen": "https://image.tmdb.org/t/p/w500/z9ajF6E39Hg2pXUofmUYgZHvdX.jpg",
-    "link_pelicula": "bcjcj",
-    "genero": [
-      "Fantasía",
-      "Acción",
-      "Comedia"
-    ],
-    "referencia": "",
-    "referencia_2": "PELISC"
-  },
-  {
     "id": 1780470704692,
     "tipo": "movie",
     "titulo": "Mi pobre angelito",
