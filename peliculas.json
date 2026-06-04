@@ -210,5 +210,153 @@
     "link_poster": "https://image.tmdb.org/t/p/w500/nRJH3KgLc3dMLaDJgLQ9u7CxsJg.jpg",
     "link_backdrop": "https://image.tmdb.org/t/p/w500/kLHOkqTdxzxllm6Re3qHgFQZdlJ.jpg",
     "link_imagen": "https://image.tmdb.org/t/p/w500/nRJH3KgLc3dMLaDJgLQ9u7CxsJg.jpg"
+  },
+  {
+    "id": 1780542087830,
+    "tmdb_id": 1438,
+    "tipo": "Serie",
+    "titulo": "Los Vigilantes",
+    "rating": 8.6,
+    "año": 2002,
+    "total_temporadas": 5,
+    "genero": [
+      "Crimen",
+      "Drama"
+    ],
+    "sinopsis": "En los barrios bajos de Baltimore, se investiga un asesinato relacionado con el mundo de las drogas. Un policía es el encargado de detener a los miembros de un importante cártel. La corrupción policial, las frágiles lealtades dentro de los cárteles y la miseria vinculada al narcotráfico son algunos de los problemas denunciados en esta serie. Parece inspirarse en series modernas como \"Los Soprano\" y en clásicos como \"Policías de Nueva York (NYPD Blue)\". El creador de la serie fue, durante años, reportero de la crónica negra de Baltimore, y uno de los coguionistas fue policía en la misma ciudad.",
+    "link_poster": "https://image.tmdb.org/t/p/w500/v5m7os416ER2a9dTE0M017KqRmZ.jpg",
+    "link_backdrop": "https://image.tmdb.org/t/p/w500/ljVRHZ8f1wbgDwgtyj7ZEChSTok.jpg",
+    "link_imagen": "https://image.tmdb.org/t/p/w500/v5m7os416ER2a9dTE0M017KqRmZ.jpg",
+    "temporadas": {
+      "1": {
+        "1": {
+          "nombre": "Episodio 1",
+          "still": "https://image.tmdb.org/t/p/w500/6Nvita938dYtiMXOIEYsjKzTJ1.jpg",
+          "video": "hdjwjjjjw"
+        },
+        "2": {
+          "nombre": "Episodio 2",
+          "still": "https://image.tmdb.org/t/p/w500/eCkv6Ihew8igmnUpEGO784IjOCA.jpg",
+          "video": ""
+        },
+        "3": {
+          "nombre": "Episodio 3",
+          "still": "https://image.tmdb.org/t/p/w500/iio1fYKajoNb0gPySBTBXfmAlas.jpg",
+          "video": ""
+        },
+        "4": {
+          "nombre": "Episodio 4",
+          "still": "https://image.tmdb.org/t/p/w500/p2Wf387VeXvsPX021AT7Ov4KRHH.jpg",
+          "video": ""
+        },
+        "5": {
+          "nombre": "Episodio 5",
+          "still": "https://image.tmdb.org/t/p/w500/hGWCLPaie8xmI2BHBenox7wdTac.jpg",
+          "video": ""
+        },
+        "6": {
+          "nombre": "Episodio 6",
+          "still": "https://image.tmdb.org/t/p/w500/u1SRJQzl98RQpbWJ6q5mu0E2xxY.jpg",
+          "video": ""
+        },
+        "7": {
+          "nombre": "Episodio 7",
+          "still": "https://image.tmdb.org/t/p/w500/xph05Vc2QA8ucCzYxJkLJtOFTnV.jpg",
+          "video": ""
+        },
+        "8": {
+          "nombre": "Episodio 8",
+          "still": "https://image.tmdb.org/t/p/w500/7KH2ZDqLHeRxJsheRDbkZdY3mKt.jpg",
+          "video": ""
+        },
+        "9": {
+          "nombre": "Episodio 9",
+          "still": "https://image.tmdb.org/t/p/w500/bvhD7geKeqJ6XLSBqjUHUcTF84f.jpg",
+          "video": ""
+        },
+        "10": {
+          "nombre": "Episodio 10",
+          "still": "https://image.tmdb.org/t/p/w500/zS0EvAy5IyVl0dSg9lruErzb3Nr.jpg",
+          "video": ""
+        },
+        "11": {
+          "nombre": "Episodio 11",
+          "still": "https://image.tmdb.org/t/p/w500/sYzEEXnttV0nkPe0QnY3BaZ8yxq.jpg",
+          "video": ""
+        },
+        "12": {
+          "nombre": "Episodio 12",
+          "still": "https://image.tmdb.org/t/p/w500/yiEGeOl1qteH5tzxsDLM0lC4vo5.jpg",
+          "video": ""
+        },
+        "13": {
+          "nombre": "Episodio 13",
+          "still": "https://image.tmdb.org/t/p/w500/pOmkuC4zfUTZZVR8WWC5QcqI9SE.jpg",
+          "video": ""
+        }
+      },
+      "2": {
+        "1": {
+          "nombre": "Episodio 1",
+          "still": "https://image.tmdb.org/t/p/w500/hQSYspFBPhvQBZn3PTbkUCOhIC7.jpg",
+          "video": "jajajjajsje"
+        },
+        "2": {
+          "nombre": "Episodio 2",
+          "still": "https://image.tmdb.org/t/p/w500/bFku35BAnZtF4qjWrQtaTxSm6kP.jpg",
+          "video": ""
+        },
+        "3": {
+          "nombre": "Episodio 3",
+          "still": "https://image.tmdb.org/t/p/w500/mwxuFvBRtay0OROMheFP7DVERvw.jpg",
+          "video": ""
+        },
+        "4": {
+          "nombre": "Episodio 4",
+          "still": "https://image.tmdb.org/t/p/w500/3dmtbnW1qZEg5eLP1Cd5bwWuC8r.jpg",
+          "video": ""
+        },
+        "5": {
+          "nombre": "Episodio 5",
+          "still": "https://image.tmdb.org/t/p/w500/btjlYQb6L1UOBkV9K6sT1lUKu79.jpg",
+          "video": ""
+        },
+        "6": {
+          "nombre": "Episodio 6",
+          "still": "https://image.tmdb.org/t/p/w500/lneTNhICYd2lNLGJCr4yyyj6hJd.jpg",
+          "video": ""
+        },
+        "7": {
+          "nombre": "Episodio 7",
+          "still": "https://image.tmdb.org/t/p/w500/hSZOC5LyGoag0APpu0IMXANaWcy.jpg",
+          "video": ""
+        },
+        "8": {
+          "nombre": "Episodio 8",
+          "still": "https://image.tmdb.org/t/p/w500/2nEUdNSI2fek8AbmKtyXrwGP0L7.jpg",
+          "video": ""
+        },
+        "9": {
+          "nombre": "Episodio 9",
+          "still": "https://image.tmdb.org/t/p/w500/cEhKuqTkI8bZG2WckYa4ckblrwX.jpg",
+          "video": ""
+        },
+        "10": {
+          "nombre": "Episodio 10",
+          "still": "https://image.tmdb.org/t/p/w500/tl6MJqO8aJxzpZOAHTGt51TGnIp.jpg",
+          "video": ""
+        },
+        "11": {
+          "nombre": "Episodio 11",
+          "still": "https://image.tmdb.org/t/p/w500/18Pacg9HE4sNpwM4CxYV6kPsERI.jpg",
+          "video": ""
+        },
+        "12": {
+          "nombre": "Episodio 12",
+          "still": "https://image.tmdb.org/t/p/w500/nfQGFIi94bsk9wwbN1BLlLuhEnu.jpg",
+          "video": ""
+        }
+      }
+    }
   }
 ]
