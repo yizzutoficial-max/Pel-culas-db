@@ -665,5 +665,95 @@
     "link_backdrop": "https://image.tmdb.org/t/p/w500/hCztoFf1TEpkj7iIdzgv129oBaS.jpg",
     "link_imagen": "https://image.tmdb.org/t/p/w500/2RcxjDykOssx4SfqshewyI9vfSl.jpg",
     "referencia_2": "AnimeC"
+  },
+  {
+    "id": 1780589187690,
+    "tmdb_id": 4686,
+    "tipo": "Serie",
+    "titulo": "Ben 10",
+    "rating": 8.2,
+    "año": 2005,
+    "total_temporadas": 4,
+    "genero": [
+      "Animación",
+      "Sci-Fi & Fantasy",
+      "Action & Adventure",
+      "Comedia",
+      "Kids"
+    ],
+    "sinopsis": "Gracias a un dispositivo misterioso conocido como el Omnitrix, Ben Tennyson tiene el poder de transformarse en una variedad de superhéroes alienígenas.",
+    "link_poster": "https://image.tmdb.org/t/p/w500/eogRp6oAPK0SEvQmCrQ78LTlSdp.jpg",
+    "link_backdrop": "https://image.tmdb.org/t/p/w500/8LMFbTW0sgsyAkwdR4gqpzzhngf.jpg",
+    "link_imagen": "https://image.tmdb.org/t/p/w500/eogRp6oAPK0SEvQmCrQ78LTlSdp.jpg",
+    "temporadas": {
+      "1": {
+        "1": {
+          "nombre": "Y fueron 10",
+          "still": "https://image.tmdb.org/t/p/w500/vgNzUXO0LFsd2123ptGlAvIwdJC.jpg",
+          "video": "rfyi"
+        },
+        "2": {
+          "nombre": "Aprendiendo a ser heroe",
+          "still": "https://image.tmdb.org/t/p/w500/tkuZ2lITqsYR3RNXhNkdkeGC4Zw.jpg",
+          "video": ""
+        },
+        "3": {
+          "nombre": "El Krakken",
+          "still": "https://image.tmdb.org/t/p/w500/wLd0CR5pwBuJ4sOOZ6Ut1nE5ioI.jpg",
+          "video": ""
+        },
+        "4": {
+          "nombre": "Visitando a los Viejos",
+          "still": "https://image.tmdb.org/t/p/w500/3R46I1ss01DKrFxGQObhyNIsJm6.jpg",
+          "video": ""
+        },
+        "5": {
+          "nombre": "Buscando el Omnitrix",
+          "still": "https://image.tmdb.org/t/p/w500/cXbah21hfEakwLFdWsIlrQQiEBL.jpg",
+          "video": ""
+        },
+        "6": {
+          "nombre": "Trampa Para Turistas",
+          "still": "https://image.tmdb.org/t/p/w500/zj3j2as1806Y3ieDpISNcyTu6oh.jpg",
+          "video": ""
+        },
+        "7": {
+          "nombre": "Copiando Poderes",
+          "still": "https://image.tmdb.org/t/p/w500/kB0V2fOH5Is8zhvvDTegvFiSCT3.jpg",
+          "video": ""
+        },
+        "8": {
+          "nombre": "La Alianza",
+          "still": "https://image.tmdb.org/t/p/w500/dGH8PxjEzzOAMBlKis9vWCH5Nyd.jpg",
+          "video": ""
+        },
+        "9": {
+          "nombre": "La Última Risa",
+          "still": "https://image.tmdb.org/t/p/w500/AgEm0oOeufdhKvY03OPD1nrvhBk.jpg",
+          "video": ""
+        },
+        "10": {
+          "nombre": "La Chica de la Suerte",
+          "still": "https://image.tmdb.org/t/p/w500/umVwPOwwSWDiD3GoqcWHx3FimT2.jpg",
+          "video": ""
+        },
+        "11": {
+          "nombre": "Un Pequeño Problema",
+          "still": "https://image.tmdb.org/t/p/w500/yjbtW6M6UUVJkX4kf62nqwS0sj8.jpg",
+          "video": ""
+        },
+        "12": {
+          "nombre": "Efectos Secundarios",
+          "still": "https://image.tmdb.org/t/p/w500/mWKmygOXNPWwJQOF4ODaoQoKx8k.jpg",
+          "video": ""
+        },
+        "13": {
+          "nombre": "Secretos",
+          "still": "https://image.tmdb.org/t/p/w500/83zqzHQTdhKhOdWh5pm3cKugdL3.jpg",
+          "video": ""
+        }
+      }
+    },
+    "referencia_2": "SeriesC"
   }
 ]
