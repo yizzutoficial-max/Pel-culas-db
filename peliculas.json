@@ -647,5 +647,23 @@
     "titulo": "ESPN",
     "link_pelicula": "ygdnnbvgg",
     "link_imagen": "https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png"
+  },
+  {
+    "id": 1780586447112,
+    "tipo": "anime",
+    "titulo": "El viaje de Chihiro",
+    "rating": 8.5,
+    "año": 2001,
+    "genero": [
+      "Animación",
+      "Familia",
+      "Fantasía"
+    ],
+    "sinopsis": "Durante la mudanza de su familia a los suburbios, una huraña niña de 10 años de edad deambula por un mundo gobernado por dioses, brujas y espíritus, y donde los humanos se convierten en bestias.",
+    "link_pelicula": "hajjwjwuwu",
+    "link_poster": "https://image.tmdb.org/t/p/w500/2RcxjDykOssx4SfqshewyI9vfSl.jpg",
+    "link_backdrop": "https://image.tmdb.org/t/p/w500/hCztoFf1TEpkj7iIdzgv129oBaS.jpg",
+    "link_imagen": "https://image.tmdb.org/t/p/w500/2RcxjDykOssx4SfqshewyI9vfSl.jpg",
+    "referencia_2": "ANIMEC"
   }
 ]
