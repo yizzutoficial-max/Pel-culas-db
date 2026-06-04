@@ -358,5 +358,287 @@
     "link_backdrop": "https://image.tmdb.org/t/p/w500/4IIOSwhScdnZCptqrcH3cfQUq7y.jpg",
     "link_imagen": "https://image.tmdb.org/t/p/w500/or6XJBVpcEbIkma0V9zshnbEtx4.jpg",
     "link_pelicula": "jajajjakdkd"
+  },
+  {
+    "id": 1780555136757,
+    "tmdb_id": 46260,
+    "tipo": "anime",
+    "titulo": "Naruto",
+    "rating": 8.4,
+    "año": 2002,
+    "total_temporadas": 4,
+    "genero": [
+      "Animación",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "sinopsis": "Narra la historia de un ninja adolescente hiperactivo, impredecible y ruidoso llamado Naruto Uzumaki, quien aspira a convertirse afanosamente en Hokage, el máximo grado ninja en su aldea, con el propósito de ser reconocido como alguien importante dentro de la misma.",
+    "link_poster": "https://image.tmdb.org/t/p/w500/oOkvQ1anSMvdYbUGGf7NAnfwHUt.jpg",
+    "link_backdrop": "https://image.tmdb.org/t/p/w500/dW9FQRgTDBdH36FtDbC2qCEKjtQ.jpg",
+    "link_imagen": "https://image.tmdb.org/t/p/w500/oOkvQ1anSMvdYbUGGf7NAnfwHUt.jpg",
+    "temporadas": {
+      "1": {
+        "1": {
+          "nombre": "¡Entra! ¡Naruto Uzumaki!",
+          "still": "https://image.tmdb.org/t/p/w500/7xOP0rKDniTZKEaRM7seKfY9SG8.jpg",
+          "video": "bsbsjjskd"
+        },
+        "2": {
+          "nombre": "¡Soy Konohamaru!",
+          "still": "https://image.tmdb.org/t/p/w500/5e0sxZupgkWNRvEnSn8CtDaTNck.jpg",
+          "video": ""
+        },
+        "3": {
+          "nombre": "Sasuke y Sakura: ¿Amigos o enemigos?",
+          "still": "https://image.tmdb.org/t/p/w500/AnET8GFEtsVkhZCvNDYdo1OhFUZ.jpg",
+          "video": ""
+        },
+        "4": {
+          "nombre": "Aprobar o reprobar: Un examen de supervivencia",
+          "still": "https://image.tmdb.org/t/p/w500/754Qrt6RuRblgazi8LiZ26AkmzK.jpg",
+          "video": ""
+        },
+        "5": {
+          "nombre": "¡Fallaste! La decisión final de Kakashi",
+          "still": "https://image.tmdb.org/t/p/w500/6DUDSdvZIq4ebWB56EXPWNIt7Yp.jpg",
+          "video": ""
+        },
+        "6": {
+          "nombre": "Una misión peligrosa. Un viaje al País de las Olas",
+          "still": "https://image.tmdb.org/t/p/w500/iFwElDN6atOMRNsTnO2xpGr9cfH.jpg",
+          "video": ""
+        },
+        "7": {
+          "nombre": "El asesino de la neblina",
+          "still": "https://image.tmdb.org/t/p/w500/hCux6yOMEr0aTASISowEYR5HNm6.jpg",
+          "video": ""
+        },
+        "8": {
+          "nombre": "El juramento del dolor",
+          "still": "https://image.tmdb.org/t/p/w500/aHB9h0MKT9SM56QDpFEAThWmfZw.jpg",
+          "video": ""
+        },
+        "9": {
+          "nombre": "Kakashi: Guerrero Sharingan",
+          "still": "https://image.tmdb.org/t/p/w500/zPkIKMA53ysQZ2zj5inHwsXA2ME.jpg",
+          "video": ""
+        },
+        "10": {
+          "nombre": "El bosque de Chakra",
+          "still": "https://image.tmdb.org/t/p/w500/mgSDvvVi16W2jDvulu5kHr3Zsrs.jpg",
+          "video": ""
+        },
+        "11": {
+          "nombre": "La tierra donde alguna vez vivió un héroe",
+          "still": "https://image.tmdb.org/t/p/w500/cvhg1zkpVk67Nap3L9vCmmjhWVZ.jpg",
+          "video": ""
+        },
+        "12": {
+          "nombre": "Batalla en el puente: Zabuza regresa",
+          "still": "https://image.tmdb.org/t/p/w500/2BOgs1XwMqakMbh55nFeWO1ad31.jpg",
+          "video": ""
+        },
+        "13": {
+          "nombre": "La técnica de Haku - Espejo Mágico Cristal de Hielo",
+          "still": "https://image.tmdb.org/t/p/w500/rxmDDbuvKzAEmBljTXEntUFJBbS.jpg",
+          "video": ""
+        },
+        "14": {
+          "nombre": "¡El número 1 hiperactivo ninja cabeza hueca entra a jugar!",
+          "still": "https://image.tmdb.org/t/p/w500/dsNUKjlGPBKIoH1XYzr25IDxYum.jpg",
+          "video": ""
+        },
+        "15": {
+          "nombre": "Visibilidad cero: El Sharingan desquebrajado",
+          "still": "https://image.tmdb.org/t/p/w500/480oLCtY8CkKySvOeO0MyBbMI1b.jpg",
+          "video": ""
+        },
+        "16": {
+          "nombre": "El sello roto",
+          "still": "https://image.tmdb.org/t/p/w500/AntqxDoUOQkiuWfCQohBubKKA7.jpg",
+          "video": ""
+        },
+        "17": {
+          "nombre": "Pasado blanco, ambición escondida",
+          "still": "https://image.tmdb.org/t/p/w500/d0FSZc0LLbdEwhZ829dxpCN9b5t.jpg",
+          "video": ""
+        },
+        "18": {
+          "nombre": "Las armas conocidas como Shinobi",
+          "still": "https://image.tmdb.org/t/p/w500/fWq5VAWWX2PQ8dZUFvmN8w095tb.jpg",
+          "video": ""
+        },
+        "19": {
+          "nombre": "El demonio en la nieve",
+          "still": "https://image.tmdb.org/t/p/w500/vEo04e0vR3tySztQoLVgrBpiVIa.jpg",
+          "video": ""
+        },
+        "20": {
+          "nombre": "Un nuevo capítulo comienza: ¡El examen Chūnin!",
+          "still": "https://image.tmdb.org/t/p/w500/r6DTT3moIK4CgU5OpmByLdOCU1x.jpg",
+          "video": ""
+        },
+        "21": {
+          "nombre": "Identifíquense: Nuevos y poderosos rivales",
+          "still": "https://image.tmdb.org/t/p/w500/lTZR0D5mFCmjGqUsvn66QxC0SAO.jpg",
+          "video": ""
+        },
+        "22": {
+          "nombre": "Reto Chūnin: ¡Rock Lee vs. Sasuke!",
+          "still": "https://image.tmdb.org/t/p/w500/2YRIgqJVVAycZ0ZZfIN4GQ169qM.jpg",
+          "video": ""
+        },
+        "23": {
+          "nombre": "¡La batalla Genin! Los nueve novatos se enfrentan",
+          "still": "https://image.tmdb.org/t/p/w500/8cusxVCLl6Vhz8z6EwLAvEPp0bV.jpg",
+          "video": ""
+        },
+        "24": {
+          "nombre": "Enciendan motores: ¡Los exámenes Chunin comienzan!",
+          "still": "https://image.tmdb.org/t/p/w500/9GXCX3b9hBg2Dke5Y2UQTdC3h5T.jpg",
+          "video": ""
+        },
+        "25": {
+          "nombre": "La décima pregunta: ¡Todo o nada!",
+          "still": "https://image.tmdb.org/t/p/w500/ggsD7py8c7EDWHheDq2fMeM5JbS.jpg",
+          "video": ""
+        },
+        "26": {
+          "nombre": "Reporte especial: ¡En vivo desde el bosque de la muerte!*",
+          "still": "https://image.tmdb.org/t/p/w500/c82OEFZfwvhIYDu4L2Wkiu0AidQ.jpg",
+          "video": ""
+        },
+        "27": {
+          "nombre": "El examen Chunin 2da. etapa: El bosque de la muerte",
+          "still": "https://image.tmdb.org/t/p/w500/e0GGbezmLS5SVYTgAHQEnB2pfXE.jpg",
+          "video": ""
+        },
+        "28": {
+          "nombre": "¿Comer o ser comido?: Pánico en el bosque",
+          "still": "https://image.tmdb.org/t/p/w500/uUuQV1Ywfo4ZLyt5qS67sV64PzT.jpg",
+          "video": ""
+        },
+        "29": {
+          "nombre": "El contraataque de Naruto: ¡Nunca rendirse!",
+          "still": "https://image.tmdb.org/t/p/w500/xO0wT3hZ7BA5ejNGqxYM4rDkrLo.jpg",
+          "video": ""
+        },
+        "30": {
+          "nombre": "Sharingan revivido: ¡El jutsu flama de dragón!",
+          "still": "https://image.tmdb.org/t/p/w500/fow6cCMvQDNTZd4pojbB5n9Biw1.jpg",
+          "video": ""
+        },
+        "31": {
+          "nombre": "La promesa del cejas de azotador: ¡Amor imperecedero y protección!",
+          "still": "https://image.tmdb.org/t/p/w500/8O4ZB71t8avTJlfeWgjYshH9uO3.jpg",
+          "video": ""
+        },
+        "32": {
+          "nombre": "¡Sakura florece!",
+          "still": "https://image.tmdb.org/t/p/w500/upF0XMGkN88cNW5EJ9Fcvrn3BjK.jpg",
+          "video": ""
+        },
+        "33": {
+          "nombre": "Formación de batalla: ¡Ino-Shika-Cho!",
+          "still": "https://image.tmdb.org/t/p/w500/o27QYKY0FWstxJkLaw8k19VMHi1.jpg",
+          "video": ""
+        },
+        "34": {
+          "nombre": "Akamaru tiembla: ¡La fuerza cruel de Gaara!",
+          "still": "https://image.tmdb.org/t/p/w500/lgaCuu47RnTkJFSaTGE8oVr0D79.jpg",
+          "video": ""
+        },
+        "35": {
+          "nombre": "El secreto del pergamino: No se permiten miradas",
+          "still": "https://image.tmdb.org/t/p/w500/d8LGgOxvDIJgBpBIgypfOT0eJg5.jpg",
+          "video": ""
+        },
+        "36": {
+          "nombre": "Clon contra clon: ¡Los míos son mejores que los tuyos!",
+          "still": "https://image.tmdb.org/t/p/w500/p4k6c0ElCzJfn8ixALdQprUbBXq.jpg",
+          "video": ""
+        },
+        "37": {
+          "nombre": "¡Sobreviviendo al corte! ¡Los nueve novatos juntos otra vez!",
+          "still": "https://image.tmdb.org/t/p/w500/rJhRWpsbk4cVwQsHcql10UalGOB.jpg",
+          "video": ""
+        },
+        "38": {
+          "nombre": "Reduciendo campos: ¡Eliminación por muerte súbita!",
+          "still": "https://image.tmdb.org/t/p/w500/kEUY1p3yB2zuzs6G0J9zRa3n5vA.jpg",
+          "video": ""
+        },
+        "39": {
+          "nombre": "Cejas de azotador celoso: ¡La ráfaga de leones se desata!",
+          "still": "https://image.tmdb.org/t/p/w500/yqXPIz1zU9g4FHbma3Hw4ZwzBv.jpg",
+          "video": ""
+        },
+        "40": {
+          "nombre": "Kakashi y Orochimaru: ¡Cara a cara!",
+          "still": "https://image.tmdb.org/t/p/w500/ttIRnPMOec3EeQ6DScu0SR2OtnW.jpg",
+          "video": ""
+        },
+        "41": {
+          "nombre": "Estruendo Kunoichi: ¡Las rivales se confrontan!",
+          "still": "https://image.tmdb.org/t/p/w500/3kBlIN2qODUZrcu2POv2mG3l2dZ.jpg",
+          "video": ""
+        },
+        "42": {
+          "nombre": "La Batalla Máxima: ¡Cha!",
+          "still": "https://image.tmdb.org/t/p/w500/mje94QnuzJ0i3E9T41Et5wP5ws.jpg",
+          "video": ""
+        },
+        "43": {
+          "nombre": "La Kunoichi asesina y el tembloroso Shikamaru",
+          "still": "https://image.tmdb.org/t/p/w500/cfyppAV2k3JNOk2w3OSNpy3iXSd.jpg",
+          "video": ""
+        },
+        "44": {
+          "nombre": "¡Akamaru desatado! ¿Quién es el más perrón ahora?",
+          "still": "https://image.tmdb.org/t/p/w500/99FrIir3fl2I4THjM8SMvmSj3MI.jpg",
+          "video": ""
+        },
+        "45": {
+          "nombre": "¡Ataque sorpresa! ¡El arma secreta de Naruto!",
+          "still": "https://image.tmdb.org/t/p/w500/bE7SGcJpYQ7nQOgepW8awRopLbC.jpg",
+          "video": ""
+        },
+        "46": {
+          "nombre": "Batalla Byakugan: ¡Hinata se hace valiente!",
+          "still": "https://image.tmdb.org/t/p/w500/799bK1KRz4M2YrMGyXI1Y1VZmhX.jpg",
+          "video": ""
+        },
+        "47": {
+          "nombre": "¡Una derrota digna!",
+          "still": "https://image.tmdb.org/t/p/w500/hgUDkVN629NTuACZK4ucL24H7ij.jpg",
+          "video": ""
+        },
+        "48": {
+          "nombre": "Gaara contra Rock Lee: ¡El poder de la juventud explota!",
+          "still": "https://image.tmdb.org/t/p/w500/by1hzL5jaQ5AgdP2pxYuPnLbKLo.jpg",
+          "video": ""
+        },
+        "49": {
+          "nombre": "La fuerza escondida de Lee: ¡El jutsu secreto prohibido!",
+          "still": "https://image.tmdb.org/t/p/w500/kc18Rwed6GBPz7EdwRTedULhsF0.jpg",
+          "video": ""
+        },
+        "50": {
+          "nombre": "La quinta puerta: Un espléndido ninja ha nacido",
+          "still": "https://image.tmdb.org/t/p/w500/4gpJWjIQqI9bxhzupttFUdycU6m.jpg",
+          "video": ""
+        },
+        "51": {
+          "nombre": "Una sombra en la oscuridad: El peligro se aproxima a Sasuke",
+          "still": "https://image.tmdb.org/t/p/w500/eHcbJbaAc9jn7h5BZivDtJzjnyt.jpg",
+          "video": ""
+        },
+        "52": {
+          "nombre": "Ebisu regresa: ¡El entrenamiento más rudo de Naruto hasta ahora!",
+          "still": "https://image.tmdb.org/t/p/w500/rf92mvS6qERp44wplipu4sZUWXZ.jpg",
+          "video": ""
+        }
+      }
+    }
   }
 ]
