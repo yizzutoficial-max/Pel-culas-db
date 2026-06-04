@@ -292,6 +292,130 @@
           "still": "https://image.tmdb.org/t/p/w500/pOmkuC4zfUTZZVR8WWC5QcqI9SE.jpg",
           "video": ""
         }
+      },
+      "2": {
+        "1": {
+          "nombre": "Episodio 1",
+          "still": "https://image.tmdb.org/t/p/w500/hQSYspFBPhvQBZn3PTbkUCOhIC7.jpg",
+          "video": "ghklnv"
+        },
+        "2": {
+          "nombre": "Episodio 2",
+          "still": "https://image.tmdb.org/t/p/w500/bFku35BAnZtF4qjWrQtaTxSm6kP.jpg",
+          "video": ""
+        },
+        "3": {
+          "nombre": "Episodio 3",
+          "still": "https://image.tmdb.org/t/p/w500/mwxuFvBRtay0OROMheFP7DVERvw.jpg",
+          "video": ""
+        },
+        "4": {
+          "nombre": "Episodio 4",
+          "still": "https://image.tmdb.org/t/p/w500/3dmtbnW1qZEg5eLP1Cd5bwWuC8r.jpg",
+          "video": ""
+        },
+        "5": {
+          "nombre": "Episodio 5",
+          "still": "https://image.tmdb.org/t/p/w500/btjlYQb6L1UOBkV9K6sT1lUKu79.jpg",
+          "video": ""
+        },
+        "6": {
+          "nombre": "Episodio 6",
+          "still": "https://image.tmdb.org/t/p/w500/lneTNhICYd2lNLGJCr4yyyj6hJd.jpg",
+          "video": ""
+        },
+        "7": {
+          "nombre": "Episodio 7",
+          "still": "https://image.tmdb.org/t/p/w500/hSZOC5LyGoag0APpu0IMXANaWcy.jpg",
+          "video": ""
+        },
+        "8": {
+          "nombre": "Episodio 8",
+          "still": "https://image.tmdb.org/t/p/w500/2nEUdNSI2fek8AbmKtyXrwGP0L7.jpg",
+          "video": ""
+        },
+        "9": {
+          "nombre": "Episodio 9",
+          "still": "https://image.tmdb.org/t/p/w500/cEhKuqTkI8bZG2WckYa4ckblrwX.jpg",
+          "video": ""
+        },
+        "10": {
+          "nombre": "Episodio 10",
+          "still": "https://image.tmdb.org/t/p/w500/tl6MJqO8aJxzpZOAHTGt51TGnIp.jpg",
+          "video": ""
+        },
+        "11": {
+          "nombre": "Episodio 11",
+          "still": "https://image.tmdb.org/t/p/w500/18Pacg9HE4sNpwM4CxYV6kPsERI.jpg",
+          "video": ""
+        },
+        "12": {
+          "nombre": "Episodio 12",
+          "still": "https://image.tmdb.org/t/p/w500/nfQGFIi94bsk9wwbN1BLlLuhEnu.jpg",
+          "video": ""
+        }
+      },
+      "3": {
+        "1": {
+          "nombre": "Episodio 1",
+          "still": "https://image.tmdb.org/t/p/w500/fbrqJNrtzPPAXSrInUlMXTnbPmT.jpg",
+          "video": "ghklnv"
+        },
+        "2": {
+          "nombre": "Episodio 2",
+          "still": "https://image.tmdb.org/t/p/w500/n63PkRcSlaNEQMgQBEthgRDLTNQ.jpg",
+          "video": ""
+        },
+        "3": {
+          "nombre": "Episodio 3",
+          "still": "https://image.tmdb.org/t/p/w500/z1JXJ5N66fvBcyxcWlCSaWC7YzC.jpg",
+          "video": ""
+        },
+        "4": {
+          "nombre": "Episodio 4",
+          "still": "https://image.tmdb.org/t/p/w500/uIqoqv9lfDahFPRwrTsRJFehHB8.jpg",
+          "video": ""
+        },
+        "5": {
+          "nombre": "Episodio 5",
+          "still": "https://image.tmdb.org/t/p/w500/n6QkPmqOGkvXnrbrWyGOjEbyseB.jpg",
+          "video": ""
+        },
+        "6": {
+          "nombre": "Episodio 6",
+          "still": "https://image.tmdb.org/t/p/w500/keqll9KdVmX3PhDJVUvA3YQfoSu.jpg",
+          "video": ""
+        },
+        "7": {
+          "nombre": "Episodio 7",
+          "still": "https://image.tmdb.org/t/p/w500/zrQKYu11BCtce9hKbB2JpNYlCyi.jpg",
+          "video": ""
+        },
+        "8": {
+          "nombre": "Episodio 8",
+          "still": "https://image.tmdb.org/t/p/w500/i77oAsUusNCbb5mBOFuMjZAeCyl.jpg",
+          "video": ""
+        },
+        "9": {
+          "nombre": "Episodio 9",
+          "still": "https://image.tmdb.org/t/p/w500/n2sGtY62jATWqyqCi8gN7Gd8YIC.jpg",
+          "video": ""
+        },
+        "10": {
+          "nombre": "Episodio 10",
+          "still": "https://image.tmdb.org/t/p/w500/aIoOu9OXulfuLBR6DcX9l1hrHrW.jpg",
+          "video": ""
+        },
+        "11": {
+          "nombre": "Episodio 11",
+          "still": "https://image.tmdb.org/t/p/w500/eC1dSy9IHvVoIESal1Hk1ZB0mbU.jpg",
+          "video": ""
+        },
+        "12": {
+          "nombre": "Episodio 12",
+          "still": "https://image.tmdb.org/t/p/w500/ixBuFTYZpJi5kT6vp7pM2ZpnhFB.jpg",
+          "video": ""
+        }
       }
     },
     "total_temporadas": 5,
