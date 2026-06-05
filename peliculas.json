@@ -781,5 +781,13 @@
     "link_backdrop": "https://image.tmdb.org/t/p/w500/Antz70VlRI2yU3iwYxyYUknzfz9.jpg",
     "link_imagen": "https://image.tmdb.org/t/p/w500/8zHIgB6tP34Ie34ddllzLg3F4YP.jpg",
     "referencia": "CARRUSEL"
+  },
+  {
+    "id": 1780619506944,
+    "tipo": "Canal",
+    "titulo": "ESPN 2",
+    "genero": "Deportes",
+    "link_canal": "uuajsjss",
+    "link_imagen": "https://www.freepnglogos.com/uploads/espn-png-logo/espn2-png-logo-4.png"
   }
 ]
