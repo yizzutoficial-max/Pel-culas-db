@@ -763,5 +763,23 @@
     "link_canal": "hajjKsdjd",
     "link_imagen": "https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",
     "genero": "Deportes"
+  },
+  {
+    "id": 1780619349213,
+    "tipo": "Pelicula",
+    "titulo": "Avatar",
+    "rating": 7.6,
+    "año": 2009,
+    "genero": [
+      "Ciencia ficción",
+      "Acción",
+      "Aventura"
+    ],
+    "sinopsis": "Jake Sully, un soldado parapléjico, ha sido designado para ir a la luna Pandora, habitado por una raza de humanoides extraterrestres inteligentes llamados Los Na'vi, en una misión única a través de un avatar.",
+    "link_pelicula": "jakalsldldld",
+    "link_poster": "https://image.tmdb.org/t/p/w500/8zHIgB6tP34Ie34ddllzLg3F4YP.jpg",
+    "link_backdrop": "https://image.tmdb.org/t/p/w500/Antz70VlRI2yU3iwYxyYUknzfz9.jpg",
+    "link_imagen": "https://image.tmdb.org/t/p/w500/8zHIgB6tP34Ie34ddllzLg3F4YP.jpg",
+    "referencia": "CARRUSEL"
   }
 ]
