@@ -789,5 +789,21 @@
     "genero": "Deportes",
     "link_canal": "uuajsjss",
     "link_imagen": "https://www.freepnglogos.com/uploads/espn-png-logo/espn2-png-logo-4.png"
+  },
+  {
+    "id": 1780728343921,
+    "tipo": "Pelicula",
+    "titulo": "¿...Y Dónde Están las Rubias?",
+    "rating": 6.9,
+    "año": 2004,
+    "genero": [
+      "Comedia",
+      "Crimen"
+    ],
+    "sinopsis": "Dos hermanos y agentes del FBI, Kevin y Marcus, han desempeñado y fracasado torpemente en casos que se les han asignado y su jefe enojado les advierte que la próxima vez que hagan mal cualquier misión serán despedidos. Ambos se disponen a esforzarse por tratar de no volver a fracasar y demostrar que son grandes agentes y se ofrecen para llevar a cabo el próximo caso. Su jefe los pone de encargados de escoltar a dos jóvenes y bellas muchachas millonarias, las hermanas Wilson, desde el aeropuerto hasta su hotel en Hamptons debido a que esas mujeres son dos posibles objetivos de un secuestrador del que se está investigando su identidad.",
+    "link_pelicula": "rthbkm",
+    "link_poster": "https://image.tmdb.org/t/p/w500/9oXAJaR58sukn59HmFZzDCy79E5.jpg",
+    "link_backdrop": "https://image.tmdb.org/t/p/w500/iHg1u8gLMPwbBtleEbwSDvdtY0p.jpg",
+    "link_imagen": "https://image.tmdb.org/t/p/w500/9oXAJaR58sukn59HmFZzDCy79E5.jpg"
   }
 ]
